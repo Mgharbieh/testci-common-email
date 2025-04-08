@@ -1,3 +1,5 @@
+// THIS COMMENT IS TO TEST THE GITHUB ACTIONS CI WORKFLOW //
+
 package org.apache.commons.mail;
 
 import org.junit.Before;
